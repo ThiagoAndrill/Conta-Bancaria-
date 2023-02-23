@@ -1,5 +1,7 @@
 package Conta.repository;
 
+import Conta.model.Conta;
+
 public interface ContaRepository {
 	
 	//CRUD da conta
